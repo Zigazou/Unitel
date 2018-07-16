@@ -16,10 +16,10 @@ The last parameter is the file name of a Unitel disk image.
 
 Available commands:
 
-    - **convert**: converts EBCDIC disk image to ASCII disk image
-    - **listfiles**: list files and offsets
-    - **listpages**: list Videotex pages and offsets
-    - **extract**: extract all pages into *.vdt files
+- **convert**: converts EBCDIC disk image to ASCII disk image
+- **listfiles**: list files and offsets
+- **listpages**: list Videotex pages and offsets
+- **extract**: extract all pages into *.vdt files
 
 The first three commands are there for debug purposes.
 
