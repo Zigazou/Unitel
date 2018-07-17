@@ -83,7 +83,7 @@ It contains either `128` or `080`.
 
 The first sector uses columns 26-30 (5 characters).
 
-![Sector address](disk_catalog_details.png "Sector address")
+![Sector address](sector_address.png "Sector address")
 
 The digits are plain text digits.
 
